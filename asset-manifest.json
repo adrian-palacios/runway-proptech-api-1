@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/runway-proptech-api-1/static/css/main.e6c38845.chunk.css",
+    "main.js": "/runway-proptech-api-1/static/js/main.97139120.chunk.js",
+    "main.js.map": "/runway-proptech-api-1/static/js/main.97139120.chunk.js.map",
+    "runtime-main.js": "/runway-proptech-api-1/static/js/runtime-main.394e30d0.js",
+    "runtime-main.js.map": "/runway-proptech-api-1/static/js/runtime-main.394e30d0.js.map",
+    "static/js/2.930af191.chunk.js": "/runway-proptech-api-1/static/js/2.930af191.chunk.js",
+    "static/js/2.930af191.chunk.js.map": "/runway-proptech-api-1/static/js/2.930af191.chunk.js.map",
+    "index.html": "/runway-proptech-api-1/index.html",
+    "static/css/main.e6c38845.chunk.css.map": "/runway-proptech-api-1/static/css/main.e6c38845.chunk.css.map",
+    "static/js/2.930af191.chunk.js.LICENSE.txt": "/runway-proptech-api-1/static/js/2.930af191.chunk.js.LICENSE.txt",
+    "static/media/logo.9db49d7d.png": "/runway-proptech-api-1/static/media/logo.9db49d7d.png",
+    "static/media/App.css": "/runway-proptech-api-1/static/media/superheros.daab12cd.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.394e30d0.js",
+    "static/js/2.930af191.chunk.js",
+    "static/css/main.e6c38845.chunk.css",
+    "static/js/main.97139120.chunk.js"
+  ]
+}
